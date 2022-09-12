@@ -91,7 +91,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #47b2e4;
+  background: #073b90 ;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -125,7 +125,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: #395da7
+  background: #073b90 
 }
 
 #header .logo {
@@ -1659,7 +1659,7 @@ section {
 .breadcrumbs ol li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #4668a2;
+  color: #073b90 ;
   content: "/";
 }
 
@@ -1668,7 +1668,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #37517e;
+  background: #073b90 ;
 }
 
 #footer .footer-newsletter {
@@ -1685,7 +1685,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #37517e;
+  color: #073b90 ;
 }
 
 #footer .footer-newsletter form {
@@ -1713,7 +1713,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #47b2e4;
+  background: #073b90 ;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1721,7 +1721,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #209dd8;
+  background: #073b90 ;
 }
 
 #footer .footer-top {
@@ -1740,7 +1740,7 @@ section {
   line-height: 1;
   text-transform: uppercase;
   font-weight: 600;
-  color: #37517e;
+  color: #073b90 ;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1754,7 +1754,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #37517e;
+  color: #073b90 ;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1771,7 +1771,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #47b2e4;
+  color: #073b90 ;
   font-size: 18px;
   line-height: 1;
 }
@@ -1795,13 +1795,13 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #47b2e4;
+  color: #073b90 ;
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #47b2e4;
+  background: #073b90 ;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1814,7 +1814,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
+  background: #073b90 ;
   color: #fff;
   text-decoration: none;
 }

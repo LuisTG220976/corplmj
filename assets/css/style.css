@@ -192,6 +192,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
+  font-weight: 500;
   color: #d19b1e ;
 }
 
@@ -454,7 +455,7 @@ h6 {
 }
 
 #hero .btn-watch-video:hover i {
-  color: #073b90 ;
+  color: #d19b1e  ;
 }
 
 #hero .animated {
@@ -662,7 +663,8 @@ section {
 }
 
 .about .content .btn-learn-more:hover {
-  background: #47b2e4;
+  background: #d19b1e ;
+  border: #d19b1e ;
   color: #fff;
   text-decoration: none;
 }

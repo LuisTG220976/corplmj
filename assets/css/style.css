@@ -466,6 +466,7 @@ h6 {
 }
 @media(max-width:1401px){
   #hero{
+    height: 100vh;
     padding-top: 180px;
   }
 }

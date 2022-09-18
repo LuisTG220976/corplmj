@@ -464,10 +464,23 @@ h6 {
 #hero .animated {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
-@media(max-width:1400px){
+@media(max-width:1401px){
   #hero{
-    padding-top: 300px;
+    padding-top: 180px;
   }
+}
+@media (max-width:1200px) {
+  #hero h1 {
+    font-size: 40px;
+    line-height: 36px;
+  }
+
+  #hero h2 {
+    font-size: 25px;
+    line-height: 24px;
+    margin-bottom: 30px;
+  }
+  
 }
 @media (max-width: 991px) {
   #hero {
@@ -489,6 +502,9 @@ h6 {
 }
 
 @media (max-width: 768px) {
+  #hero{
+    padding-top: -100px;
+  }
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
@@ -507,7 +523,7 @@ h6 {
 
 @media (max-width: 575px) {
   #hero .hero-img img {
-    width: 80%;
+    width: 60%;
   }
 
   #hero .btn-get-started {

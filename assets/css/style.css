@@ -464,6 +464,9 @@ h6 {
 #hero .animated {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
+.hero-img img{
+  border-radius: 15px;
+}
 @media(max-width:1401px){
   #hero{
     height: 100vh;
